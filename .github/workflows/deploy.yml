@@ -8,7 +8,7 @@ on:
     branches: [ master ]
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -23,7 +23,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: false
       
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -39,22 +39,20 @@ jobs:
         env:
           VNDB_API_KEY: ${{ secrets.VNDB_API_KEY }}
 
-      - name: Commit updated galgame data
+      - name: Commit and push if changed
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git add public/my_galgame.json
-          git commit -m 'chore: update galgame data [auto]' || echo 'No changes to commit'
-          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update galgame data [skip ci]" && git push)
+
       - name: Build
         run: npm run build
       
       - name: Setup Pages
         uses: actions/configure-pages@v4
+        with:
+          enablement: true
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

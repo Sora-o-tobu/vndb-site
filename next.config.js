@@ -4,7 +4,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/vndb-site',
+  trailingSlash: true,
 }
 
 module.exports = nextConfig 
