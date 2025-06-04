@@ -48,16 +48,15 @@ jobs:
 
       - name: Build
         run: npm run build
+        env:
+          NEXT_PUBLIC_BASE_PATH: '/vndb-site'
       
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          enablement: true
-      
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./out
+          folder: out
+          branch: gh-pages
+          clean: true
 
   deploy:
     environment:
