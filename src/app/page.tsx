@@ -45,14 +45,14 @@ export default function Home() {
 
   if (loading) {
     return (
-      <main className="min-h-screen bg-cover bg-center bg-fixed flex items-center justify-center" style={{ backgroundImage: 'url(/background.png)' }}>
+      <main className="min-h-screen bg-cover bg-center bg-fixed flex items-center justify-center" style={{ backgroundImage: 'url(/background.webp)' }}>
         <div className="text-white text-2xl">加载中...</div>
       </main>
     );
   }
 
   return (
-    <main className="min-h-screen bg-cover bg-center bg-fixed" style={{ backgroundImage: 'url(/background.png)' }}>
+    <main className="min-h-screen bg-cover bg-center bg-fixed" style={{ backgroundImage: 'url(/background.webp)' }}>
       <div className="container mx-auto px-4 py-8">
         <h1 className="text-4xl font-bold mb-8 text-center text-black drop-shadow-lg">我的 Galgame 收藏</h1>
         
