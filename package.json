@@ -1,9 +1,9 @@
 {
-  "name": "gal-site",
+  "name": "vndb-site",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev --turbopack",
+    "dev": "cross-env NEXT_PUBLIC_BASE_PATH='' next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
