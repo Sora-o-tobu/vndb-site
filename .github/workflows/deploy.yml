@@ -28,7 +28,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          persist-credentials: false  # 不保存凭证
+          persist-credentials: true
+          token: ${{ secrets.GITHUB_TOKEN }}
       
       # 设置 Node.js 环境
       - name: Setup Node
@@ -52,13 +53,15 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add public/my_galgame.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update galgame data [skip ci]" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update galgame data [skip ci]" && git push origin master)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # 构建项目
       - name: Build
         run: npm run build
         # env:
-        #  NEXT_PUBLIC_BASE_PATH: '/vndb-site'  # 设置基础路径
+        #   NEXT_PUBLIC_BASE_PATH: '/vndb-site'  # 设置基础路径
       
       # 配置 GitHub Pages
       - name: Setup Pages
