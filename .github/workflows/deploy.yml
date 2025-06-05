@@ -57,7 +57,7 @@ jobs:
       # 构建项目
       - name: Build
         run: npm run build
-        env:
+        # env:
         #  NEXT_PUBLIC_BASE_PATH: '/vndb-site'  # 设置基础路径
       
       # 配置 GitHub Pages
