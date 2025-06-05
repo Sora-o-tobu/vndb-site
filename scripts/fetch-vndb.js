@@ -16,7 +16,7 @@ async function fetchUserList() {
       filters: ['label', '=', 7], // filter has finished
       sort: "vote",
       reverse: true,
-      fields: "id, vote, voted, vn.title, vn.released, vn.image.url",
+      fields: "id, vote, voted, vn.title, vn.released, vn.image.url, vn.rating",
       results: 100
     },
     {
@@ -41,9 +41,11 @@ async function fetchUserList() {
 
     const result = userList.map(item => ({
       id: item.id,
+      url: "https://vndb.org/" + item.id,
       title: item.vn.title || '',
       released: item.vn.released || '',
       image: item.vn.image.url || '',
+      rating: item.vn.rating / 10 || '',   // 贝叶斯均分
       vote: item.vote / 10,
       finished: item.voted,
     }));

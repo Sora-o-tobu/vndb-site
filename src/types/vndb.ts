@@ -5,9 +5,11 @@ export interface VNDBResponse {
 
 export interface VNDBGame {
   id: string;
+  url: string;
   title: string;
   released: string;
   image: string;
+  rating: number;
   vote: number;
   finished: number;
 }

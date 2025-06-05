@@ -1,673 +1,841 @@
 [
   {
     "id": "v5",
+    "url": "https://vndb.org/v5",
     "title": "Little Busters!",
     "released": "2007-07-27",
     "image": "https://t.vndb.org/cv/12/75612.jpg",
+    "rating": 8.629999999999999,
     "vote": 10,
     "finished": 1739693400
   },
   {
     "id": "v414",
+    "url": "https://vndb.org/v414",
     "title": "KIRA☆KIRA",
     "released": "2007-11-22",
     "image": "https://t.vndb.org/cv/97/89097.jpg",
+    "rating": 7.56,
     "vote": 10,
     "finished": 1739456042
   },
   {
     "id": "v562",
+    "url": "https://vndb.org/v562",
     "title": "Sakura no Uta -Sakura no Mori no Ue o Mau-",
     "released": "2015-10-23",
     "image": "https://t.vndb.org/cv/63/79663.jpg",
+    "rating": 8.73,
     "vote": 10,
     "finished": 1700807406
   },
   {
     "id": "v925",
+    "url": "https://vndb.org/v925",
     "title": "Sono Hanabira ni Kuchizuke o: Anata to Koibito Tsunagi",
     "released": "2007-07-14",
     "image": "https://t.vndb.org/cv/78/1178.jpg",
+    "rating": 7.08,
     "vote": 10,
     "finished": 1700808099
   },
   {
     "id": "v938",
+    "url": "https://vndb.org/v938",
     "title": "Sono Hanabira ni Kuchizuke o: Anata o Suki na Shiawase",
     "released": "2008-07-25",
     "image": "https://t.vndb.org/cv/39/104639.jpg",
+    "rating": 7.15,
     "vote": 10,
     "finished": 1700808119
   },
   {
     "id": "v3144",
+    "url": "https://vndb.org/v3144",
     "title": "Subarashiki Hibi ~Furenzoku Sonzai~",
     "released": "2010-03-26",
     "image": "https://t.vndb.org/cv/17/90017.jpg",
+    "rating": 8.7,
     "vote": 10,
     "finished": 1702733773
   },
   {
     "id": "v3770",
+    "url": "https://vndb.org/v3770",
     "title": "Aiyoku no Eustia",
     "released": "2011-04-28",
     "image": "https://t.vndb.org/cv/78/79678.jpg",
+    "rating": 8.48,
     "vote": 10,
     "finished": 1725799134
   },
   {
     "id": "v7679",
+    "url": "https://vndb.org/v7679",
     "title": "Super Dangan Ronpa 2 Sayonara Zetsubou Gakuen",
     "released": "2012-07-26",
     "image": "https://t.vndb.org/cv/10/75810.jpg",
+    "rating": 8.11,
     "vote": 10,
     "finished": 1700807307
   },
   {
     "id": "v15871",
+    "url": "https://vndb.org/v15871",
     "title": "Kami no Ue no Mahoutsukai",
     "released": "2014-12-19",
     "image": "https://t.vndb.org/cv/70/92770.jpg",
+    "rating": 8.16,
     "vote": 10,
     "finished": 1700806612
   },
   {
     "id": "v20424",
+    "url": "https://vndb.org/v20424",
     "title": "Summer Pockets",
     "released": "2018-06-29",
     "image": "https://t.vndb.org/cv/30/85430.jpg",
+    "rating": 8.47,
     "vote": 10,
     "finished": 1700806430
   },
   {
     "id": "v20431",
+    "url": "https://vndb.org/v20431",
     "title": "Sakura no Toki -Sakura no Mori no Shita o Ayumu-",
     "released": "2023-02-24",
     "image": "https://t.vndb.org/cv/66/79666.jpg",
+    "rating": 8.629999999999999,
     "vote": 10,
     "finished": 1706524984
   },
   {
     "id": "v21852",
+    "url": "https://vndb.org/v21852",
     "title": "Kin'iro Loveriche",
     "released": "2017-12-22",
     "image": "https://t.vndb.org/cv/41/93841.jpg",
+    "rating": 8.18,
     "vote": 10,
     "finished": 1700806853
   },
   {
     "id": "v22880",
+    "url": "https://vndb.org/v22880",
     "title": "Shukusei no Girlfriend -the destiny star of girlfriend-",
     "released": "2018-07-27",
     "image": "https://t.vndb.org/cv/53/95453.jpg",
+    "rating": 7.390000000000001,
     "vote": 10,
     "finished": 1741059787
   },
   {
     "id": "v24717",
+    "url": "https://vndb.org/v24717",
     "title": "Kin'iro Loveriche -Golden Time-",
     "released": "2019-02-22",
     "image": "https://t.vndb.org/cv/10/79710.jpg",
+    "rating": 8.11,
     "vote": 10,
     "finished": 1700806882
   },
   {
     "id": "v29443",
+    "url": "https://vndb.org/v29443",
     "title": "Tsui no Stella",
     "released": "2022-09-30",
     "image": "https://t.vndb.org/cv/99/79699.jpg",
+    "rating": 8.22,
     "vote": 10,
     "finished": 1701671021
   },
   {
     "id": "v33036",
+    "url": "https://vndb.org/v33036",
     "title": "AMBITIOUS MISSION",
     "released": "2022-05-27",
     "image": "https://t.vndb.org/cv/96/90196.jpg",
+    "rating": 8.07,
     "vote": 10,
     "finished": 1706524966
   },
   {
     "id": "v10",
+    "url": "https://vndb.org/v10",
     "title": "narcissu",
     "released": "2005-08-02",
     "image": "https://t.vndb.org/cv/13/93313.jpg",
+    "rating": 7.49,
     "vote": 9,
     "finished": 1703899266
   },
   {
     "id": "v97",
+    "url": "https://vndb.org/v97",
     "title": "Saya no Uta",
     "released": "2003-12-26",
     "image": "https://t.vndb.org/cv/68/93368.jpg",
+    "rating": 7.959999999999999,
     "vote": 9,
     "finished": 1700807932
   },
   {
     "id": "v751",
+    "url": "https://vndb.org/v751",
     "title": "Rewrite",
     "released": "2011-06-24",
     "image": "https://t.vndb.org/cv/05/75905.jpg",
+    "rating": 8.53,
     "vote": 9,
     "finished": 1725799212
   },
   {
     "id": "v2016",
+    "url": "https://vndb.org/v2016",
     "title": "Soukou Akki Muramasa",
     "released": "2009-10-30",
     "image": "https://t.vndb.org/cv/25/77925.jpg",
+    "rating": 8.959999999999999,
     "vote": 9,
     "finished": 1725799258
   },
   {
     "id": "v7302",
+    "url": "https://vndb.org/v7302",
     "title": "Hatsuyuki Sakura",
     "released": "2012-02-24",
     "image": "https://t.vndb.org/cv/43/89943.jpg",
+    "rating": 8.11,
     "vote": 9,
     "finished": 1700806802
   },
   {
     "id": "v18149",
+    "url": "https://vndb.org/v18149",
     "title": "Otome * Domain",
     "released": "2016-06-24",
     "image": "https://t.vndb.org/cv/54/79754.jpg",
+    "rating": 7.43,
     "vote": 9,
     "finished": 1700806392
   },
   {
     "id": "v22899",
+    "url": "https://vndb.org/v22899",
     "title": "Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka?",
     "released": "2018-07-27",
     "image": "https://t.vndb.org/cv/82/78282.jpg",
+    "rating": 7.840000000000001,
     "vote": 9,
     "finished": 1707203101
   },
   {
     "id": "v26523",
+    "url": "https://vndb.org/v26523",
     "title": "9-nine- Yukiiro Yukihana Yukinoato",
     "released": "2020-04-24",
     "image": "https://t.vndb.org/cv/30/95130.jpg",
+    "rating": 8.58,
     "vote": 9,
     "finished": 1700807059
   },
   {
     "id": "v26902",
+    "url": "https://vndb.org/v26902",
     "title": "Marco to Ginga Ryuu",
     "released": "2020-02-28",
     "image": "https://t.vndb.org/cv/08/78908.jpg",
+    "rating": 7.62,
     "vote": 9,
     "finished": 1700807690
   },
   {
     "id": "v27449",
+    "url": "https://vndb.org/v27449",
     "title": "Hamidashi Creative",
     "released": "2020-09-25",
     "image": "https://t.vndb.org/cv/27/81627.jpg",
+    "rating": 7.779999999999999,
     "vote": 9,
     "finished": 1700806693
   },
   {
     "id": "v33348",
+    "url": "https://vndb.org/v33348",
     "title": "Holy Undead ~Himote de Bocchi no Shirei Jutsushi ga, Seijo ni Tensei Shite Otomodachi o Fuyashimasu~",
     "released": "2024-12-20",
     "image": "https://t.vndb.org/cv/74/93674.jpg",
+    "rating": 7.470000000000001,
     "vote": 9,
     "finished": 1736323296
   },
   {
     "id": "v42712",
+    "url": "https://vndb.org/v42712",
     "title": "AMBITIOUS MISSION After Episode 1 Kaguya & Atena",
     "released": "2023-05-26",
     "image": "https://t.vndb.org/cv/52/68852.jpg",
+    "rating": 7.529999999999999,
     "vote": 9,
     "finished": 1727103650
   },
   {
     "id": "v44098",
+    "url": "https://vndb.org/v44098",
     "title": "Ore no Hitomi de Maruhadaka! Fukachi na Mirai to Misukasu Vision",
     "released": "2023-07-28",
     "image": "https://t.vndb.org/cv/28/68428.jpg",
+    "rating": 7.26,
     "vote": 9,
     "finished": 1739699797
   },
   {
     "id": "v46789",
+    "url": "https://vndb.org/v46789",
     "title": "AMBITIOUS MISSION After Episode 2 Yae & Nijimu & Charl",
     "released": "2023-06-30",
     "image": "https://t.vndb.org/cv/23/70323.jpg",
+    "rating": 7.31,
     "vote": 9,
     "finished": 1727103666
   },
   {
     "id": "v1286",
+    "url": "https://vndb.org/v1286",
     "title": "eden* They were only two, on the planet.",
     "released": "2009-09-18",
     "image": "https://t.vndb.org/cv/17/79017.jpg",
+    "rating": 7.609999999999999,
     "vote": 8,
     "finished": 1701945772
   },
   {
     "id": "v10557",
+    "url": "https://vndb.org/v10557",
     "title": "Himawari no Kyoukai to Nagai Natsuyasumi",
     "released": "2013-03-29",
     "image": "https://t.vndb.org/cv/40/90640.jpg",
+    "rating": 7.840000000000001,
     "vote": 8,
     "finished": 1704976732
   },
   {
     "id": "v10680",
+    "url": "https://vndb.org/v10680",
     "title": "Tsuki ni Yorisou Otome no Sahou",
     "released": "2012-10-26",
     "image": "https://t.vndb.org/cv/94/79894.jpg",
+    "rating": 7.94,
     "vote": 8,
     "finished": 1700807267
   },
   {
     "id": "v14022",
+    "url": "https://vndb.org/v14022",
     "title": "Rance 01 - Hikari o Motomete -",
     "released": "2013-09-27",
     "image": "https://t.vndb.org/cv/16/95816.jpg",
+    "rating": 7.090000000000001,
     "vote": 8,
     "finished": 1725799157
   },
   {
     "id": "v16044",
+    "url": "https://vndb.org/v16044",
     "title": "Sanoba Witch",
     "released": "2015-02-27",
     "image": "https://t.vndb.org/cv/83/81083.jpg",
+    "rating": 7.840000000000001,
     "vote": 8,
     "finished": 1700807145
   },
   {
     "id": "v16511",
+    "url": "https://vndb.org/v16511",
     "title": "Shoujo Ramune",
     "released": "2015-07-31",
     "image": "https://t.vndb.org/cv/95/48495.jpg",
+    "rating": 7.640000000000001,
     "vote": 8,
     "finished": 1748925830
   },
   {
     "id": "v17642",
+    "url": "https://vndb.org/v17642",
     "title": "Rance 03 - Leazas Kanraku",
     "released": "2015-08-28",
     "image": "https://t.vndb.org/cv/15/95815.jpg",
+    "rating": 8.34,
     "vote": 8,
     "finished": 1725799192
   },
   {
     "id": "v18148",
+    "url": "https://vndb.org/v18148",
     "title": "Nora to Oujo to Noraneko Heart",
     "released": "2016-02-26",
     "image": "https://t.vndb.org/cv/43/79643.jpg",
+    "rating": 7.590000000000001,
     "vote": 8,
     "finished": 1700807625
   },
   {
     "id": "v18334",
+    "url": "https://vndb.org/v18334",
     "title": "New Dangan Ronpa V3 Minna no Koroshiai Shingakki",
     "released": "2017-01-12",
     "image": "https://t.vndb.org/cv/17/75817.jpg",
+    "rating": 7.709999999999999,
     "vote": 8,
     "finished": 1736323241
   },
   {
     "id": "v18852",
+    "url": "https://vndb.org/v18852",
     "title": "Amatsutsumi",
     "released": "2016-07-29",
     "image": "https://t.vndb.org/cv/31/79031.jpg",
+    "rating": 7.8,
     "vote": 8,
     "finished": 1707311592
   },
   {
     "id": "v19073",
+    "url": "https://vndb.org/v19073",
     "title": "Senren * Banka",
     "released": "2016-07-29",
     "image": "https://t.vndb.org/cv/46/80746.jpg",
+    "rating": 7.7,
     "vote": 8,
     "finished": 1700807157
   },
   {
     "id": "v21668",
+    "url": "https://vndb.org/v21668",
     "title": "9-nine- Sorairo Sorauta Soranooto",
     "released": "2018-04-27",
     "image": "https://t.vndb.org/cv/38/76838.jpg",
+    "rating": 7.890000000000001,
     "vote": 8,
     "finished": 1700807039
   },
   {
     "id": "v22313",
+    "url": "https://vndb.org/v22313",
     "title": "Sakura, Moyu. -as the Night's, Reincarnation-",
     "released": "2019-01-31",
     "image": "https://t.vndb.org/cv/71/79671.jpg",
+    "rating": 8.59,
     "vote": 8,
     "finished": 1736415012
   },
   {
     "id": "v22345",
+    "url": "https://vndb.org/v22345",
     "title": "Onii-chan, Asa made Zutto Gyutte Shite!",
     "released": "2018-05-25",
     "image": "https://t.vndb.org/cv/88/92488.jpg",
+    "rating": 7.5,
     "vote": 8,
     "finished": 1703316944
   },
   {
     "id": "v27448",
+    "url": "https://vndb.org/v27448",
     "title": "ATRI -My Dear Moments-",
     "released": "2020-06-18",
     "image": "https://t.vndb.org/cv/12/76012.jpg",
+    "rating": 7.81,
     "vote": 8,
     "finished": 1700806365
   },
   {
     "id": "v48724",
+    "url": "https://vndb.org/v48724",
     "title": "Ecchi de Ichizu na Doinaka Nii-sama to, Koshikiyukashii Byoujaku Imouto",
     "released": "2025-04-01",
     "image": "https://t.vndb.org/cv/18/106718.jpg",
+    "rating": 7.590000000000001,
     "vote": 8,
     "finished": 1744866994
   },
   {
     "id": "v52858",
+    "url": "https://vndb.org/v52858",
     "title": "Tensei Maou-sama wa Yuusha ni Katenai!",
     "released": "2024-11-29",
     "image": "https://t.vndb.org/cv/92/94192.jpg",
+    "rating": 7.38,
     "vote": 8,
     "finished": 1736323176
   },
   {
     "id": "v1060",
+    "url": "https://vndb.org/v1060",
     "title": "MinDeaD BlooD ~Shihaisha no Tame no Kyoushikyoku~",
     "released": "2004-06-11",
     "image": "https://t.vndb.org/cv/44/103644.jpg",
+    "rating": 7.68,
     "vote": 7,
     "finished": 1727103613
   },
   {
     "id": "v1085",
+    "url": "https://vndb.org/v1085",
     "title": "3days ~Michiteyuku Toki no Kanata de~",
     "released": "2004-06-25",
     "image": "https://t.vndb.org/cv/98/95698.jpg",
+    "rating": 7.01,
     "vote": 7,
     "finished": 1707311522
   },
   {
     "id": "v1552",
+    "url": "https://vndb.org/v1552",
     "title": "Mashiro-iro Symphony",
     "released": "2009-10-30",
     "image": "https://t.vndb.org/cv/38/95138.jpg",
+    "rating": 7.709999999999999,
     "vote": 7,
     "finished": 1700806997
   },
   {
     "id": "v2047",
+    "url": "https://vndb.org/v2047",
     "title": "Rance VI - Zeth Houkai -",
     "released": "2004-08-27",
     "image": "https://t.vndb.org/cv/04/91104.jpg",
+    "rating": 7.890000000000001,
     "vote": 7,
     "finished": 1748351327
   },
   {
     "id": "v5834",
+    "url": "https://vndb.org/v5834",
     "title": "Irotoridori no Sekai",
     "released": "2011-07-29",
     "image": "https://t.vndb.org/cv/77/88277.jpg",
+    "rating": 8.129999999999999,
     "vote": 7,
     "finished": 1745676624
   },
   {
     "id": "v12849",
+    "url": "https://vndb.org/v12849",
     "title": "Ao no Kanata no Four Rhythm",
     "released": "2014-11-28",
     "image": "https://t.vndb.org/cv/55/79855.jpg",
+    "rating": 8.290000000000001,
     "vote": 7,
     "finished": 1725799380
   },
   {
     "id": "v16070",
+    "url": "https://vndb.org/v16070",
     "title": "Hanasaki Work Spring!",
     "released": "2015-03-27",
     "image": "https://t.vndb.org/cv/40/89940.jpg",
+    "rating": 7.840000000000001,
     "vote": 7,
     "finished": 1700806837
   },
   {
     "id": "v17516",
+    "url": "https://vndb.org/v17516",
     "title": "Koi x Shin Ai Kanojo",
     "released": "2015-10-30",
     "image": "https://t.vndb.org/cv/80/81680.jpg",
+    "rating": 7.5,
     "vote": 7,
     "finished": 1727103479
   },
   {
     "id": "v20222",
+    "url": "https://vndb.org/v20222",
     "title": "Imouto ga Eroge Seiyuu Dattan Daga",
     "released": "2016-12-31",
     "image": "https://t.vndb.org/cv/76/30776.jpg",
+    "rating": 6.279999999999999,
     "vote": 7,
     "finished": 1725799391
   },
   {
     "id": "v20471",
+    "url": "https://vndb.org/v20471",
     "title": "Suisou Ginka no Istoria",
     "released": "2017-03-24",
     "image": "https://t.vndb.org/cv/06/39306.jpg",
+    "rating": 7.7,
     "vote": 7,
     "finished": 1700806661
   },
   {
     "id": "v21905",
+    "url": "https://vndb.org/v21905",
     "title": "Doki Doki Literature Club!",
     "released": "2017-09-22",
     "image": "https://t.vndb.org/cv/36/79136.jpg",
+    "rating": 6.95,
     "vote": 7,
     "finished": 1700807761
   },
   {
     "id": "v22230",
+    "url": "https://vndb.org/v22230",
     "title": "RIDDLE JOKER",
     "released": "2018-03-30",
     "image": "https://t.vndb.org/cv/73/79873.jpg",
+    "rating": 7.58,
     "vote": 7,
     "finished": 1700807168
   },
   {
     "id": "v23740",
+    "url": "https://vndb.org/v23740",
     "title": "9-nine- Haruiro Harukoi Harunokaze",
     "released": "2019-04-26",
     "image": "https://t.vndb.org/cv/77/76877.jpg",
+    "rating": 7.859999999999999,
     "vote": 7,
     "finished": 1700807052
   },
   {
     "id": "v26000",
+    "url": "https://vndb.org/v26000",
     "title": "Kimagure Temptation",
     "released": "2019-09-27",
     "image": "https://t.vndb.org/cv/66/79466.jpg",
+    "rating": 7.45,
     "vote": 7,
     "finished": 1700808176
   },
   {
     "id": "v26664",
+    "url": "https://vndb.org/v26664",
     "title": "Sakura no Kumo * Scarlet no Koi",
     "released": "2020-09-25",
     "image": "https://t.vndb.org/cv/78/90878.jpg",
+    "rating": 8.09,
     "vote": 7,
     "finished": 1700807802
   },
   {
     "id": "v26721",
+    "url": "https://vndb.org/v26721",
     "title": "SaDistic BlooD",
     "released": "2019-12-20",
     "image": "https://t.vndb.org/cv/19/75719.jpg",
+    "rating": 6.17,
     "vote": 7,
     "finished": 1703918965
   },
   {
     "id": "v28921",
+    "url": "https://vndb.org/v28921",
     "title": "Yamizome Liberator -Yamiochi Yuusha to Ochiru Senki-",
     "released": "2020-11-27",
     "image": "https://t.vndb.org/cv/25/100325.jpg",
+    "rating": 7.25,
     "vote": 7,
     "finished": 1746423189
   },
   {
     "id": "v29724",
+    "url": "https://vndb.org/v29724",
     "title": "9-nine- Shinshou",
     "released": "2021-04-23",
     "image": "https://t.vndb.org/cv/59/77159.jpg",
+    "rating": 7.42,
     "vote": 7,
     "finished": 1700807104
   },
   {
     "id": "v37651",
+    "url": "https://vndb.org/v37651",
     "title": "Mashiro-iro Symphony: Sana Edition",
     "released": "2023-06-23",
     "image": "https://t.vndb.org/cv/43/68843.jpg",
+    "rating": 8.27,
     "vote": 7,
     "finished": 1702733761
   },
   {
     "id": "v38037",
+    "url": "https://vndb.org/v38037",
     "title": "Haison Shoujo ~Ayashi Madohi no Kago no Sato~",
     "released": "2022-12-23",
     "image": "https://t.vndb.org/cv/24/59624.jpg",
+    "rating": 7.540000000000001,
     "vote": 7,
     "finished": 1746423656
   },
   {
     "id": "v38430",
+    "url": "https://vndb.org/v38430",
     "title": "GINKA",
     "released": "2023-10-26",
     "image": "https://t.vndb.org/cv/15/91415.jpg",
+    "rating": 7.279999999999999,
     "vote": 7,
     "finished": 1700896823
   },
   {
     "id": "v47175",
+    "url": "https://vndb.org/v47175",
     "title": "Select Oblige",
     "released": "2024-07-26",
     "image": "https://t.vndb.org/cv/67/88267.jpg",
+    "rating": 6.890000000000001,
     "vote": 7,
     "finished": 1725799339
   },
   {
     "id": "v55370",
+    "url": "https://vndb.org/v55370",
     "title": "Kamisama choose! Sensei Onna no Ko Niatteru Yo!",
     "released": "2025-05-30",
     "image": "https://t.vndb.org/cv/40/109840.jpg",
+    "rating": 6.9,
     "vote": 7,
     "finished": 1749084355
   },
   {
     "id": "v19658",
+    "url": "https://vndb.org/v19658",
     "title": "Karenai Sekai to Owaru Hana",
     "released": "2016-11-25",
     "image": "https://t.vndb.org/cv/82/97082.jpg",
+    "rating": 7.659999999999999,
     "vote": 6,
     "finished": 1704457657
   },
   {
     "id": "v19829",
+    "url": "https://vndb.org/v19829",
     "title": "9-nine- Kokonotsu Kokonoka Kokonoiro",
     "released": "2017-04-28",
     "image": "https://t.vndb.org/cv/18/76818.jpg",
+    "rating": 7.109999999999999,
     "vote": 6,
     "finished": 1700807029
   },
   {
     "id": "v29300",
+    "url": "https://vndb.org/v29300",
     "title": "Mahou Shoujo Shoumou Sensen - DeadΩAegis",
     "released": "2021-03-26",
     "image": "https://t.vndb.org/cv/80/77980.jpg",
+    "rating": 7.31,
     "vote": 6,
     "finished": 1703165151
   },
   {
     "id": "v30012",
+    "url": "https://vndb.org/v30012",
     "title": "Fuyukara, Kururu.",
     "released": "2021-09-24",
     "image": "https://t.vndb.org/cv/46/89046.jpg",
+    "rating": 7.5,
     "vote": 6,
     "finished": 1700806325
   },
   {
     "id": "v30461",
+    "url": "https://vndb.org/v30461",
     "title": "Mainichi Kiss Shite Lolita",
     "released": "2022-05-20",
     "image": "https://t.vndb.org/cv/34/84534.jpg",
+    "rating": 7.040000000000001,
     "vote": 6,
     "finished": 1744867054
   },
   {
     "id": "v40520",
+    "url": "https://vndb.org/v40520",
     "title": "Tenshi☆Souzou RE-BOOT!",
     "released": "2023-04-28",
     "image": "https://t.vndb.org/cv/66/88666.jpg",
+    "rating": 7.45,
     "vote": 6,
     "finished": 1700807184
   },
   {
     "id": "v53637",
+    "url": "https://vndb.org/v53637",
     "title": "Yatte mo Derarenai Heya ni Tojikomerareta no de Hikitsuzuki Motto Yaru Hanashi",
     "released": "2025-01-31",
     "image": "https://t.vndb.org/cv/40/99340.jpg",
+    "rating": 6.43,
     "vote": 6,
     "finished": 1741785193
   },
   {
     "id": "v4334",
+    "url": "https://vndb.org/v4334",
     "title": "TV no Kieta Hi",
     "released": "2007-08-31",
     "image": "https://t.vndb.org/cv/23/25923.jpg",
+    "rating": 5.6,
     "vote": 5,
     "finished": 1706525055
   },
   {
     "id": "v9303",
+    "url": "https://vndb.org/v9303",
     "title": "Imouto Choukyou Nikki ~Konna Tsundere ga Ore no Imouto na Wakenai!~",
     "released": "2011-09-03",
     "image": "https://t.vndb.org/cv/61/42061.jpg",
+    "rating": 5.41,
     "vote": 5,
     "finished": 1706525019
   },
   {
     "id": "v16372",
+    "url": "https://vndb.org/v16372",
     "title": "Erohon o Sutete kara Ani no Yousu ga Okashii",
     "released": "2015-02-27",
     "image": "https://t.vndb.org/cv/16/25816.jpg",
+    "rating": 5.83,
     "vote": 5,
     "finished": 1725799414
   },
   {
     "id": "v21465",
+    "url": "https://vndb.org/v21465",
     "title": "Kizuna Kirameku Koi Iroha",
     "released": "2017-11-24",
     "image": "https://t.vndb.org/cv/58/95258.jpg",
+    "rating": 7.49,
     "vote": 5,
     "finished": 1700807586
   },
   {
     "id": "v23388",
+    "url": "https://vndb.org/v23388",
     "title": "Deatte 5-fun wa Ore no Mono! Jikan Teishi to Atropos",
     "released": "2018-10-26",
     "image": "https://t.vndb.org/cv/93/89193.jpg",
+    "rating": 7.43,
     "vote": 5,
     "finished": 1701486155
   },
   {
     "id": "v26414",
+    "url": "https://vndb.org/v26414",
     "title": "Café Stella to Shinigami no Chou",
     "released": "2019-12-20",
     "image": "https://t.vndb.org/cv/08/79908.jpg",
+    "rating": 7.540000000000001,
     "vote": 5,
     "finished": 1700807176
   },
   {
     "id": "v30458",
+    "url": "https://vndb.org/v30458",
     "title": "Gaman ga Dekinai Doutei Aniki to, Sunao ni Narenai Hankou Imouto",
     "released": "2022-07-24",
     "image": "https://t.vndb.org/cv/58/51458.jpg",
+    "rating": 7.32,
     "vote": 5,
     "finished": 1700807868
   }

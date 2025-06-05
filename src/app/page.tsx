@@ -55,7 +55,7 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-cover bg-center bg-fixed" style={{ backgroundImage: `url(${basePath}/background.webp)` }}>
       <div className="container mx-auto px-4 py-8">
-        <h1 className="text-4xl font-bold mb-8 text-center text-black drop-shadow-lg">我的 Galgame 收藏</h1>
+        <h1 className="text-4xl font-bold mb-8 text-center text-black drop-shadow-lg">我的 Galgame</h1>
         
         {/* 导航按钮 */}
         <div className="flex justify-center gap-4 mb-8 flex-wrap">
@@ -97,11 +97,16 @@ export default function Home() {
                       />
                     </div>
                     <div className="p-4">
-                      <h2 className="text-xl font-semibold mb-2 text-black">{game.title}</h2>
+                      <h2 className="text-xl font-semibold mb-2 text-black">
+                        <a href={game.url} target="_blank" rel="noopener noreferrer" className="hover:text-blue-600 transition-colors">
+                          {game.title}
+                        </a>
+                      </h2>
                       <div className="text-gray-700">
                         <p>发售日期: {game.released}</p>
                         <p>完成日期: {formatDate(game.finished)}</p>
                         <p>个人评分: {game.vote.toFixed(1)}</p>
+                        <p>VNDB评分: {game.rating.toFixed(1)}</p>
                       </div>
                     </div>
                   </div>
