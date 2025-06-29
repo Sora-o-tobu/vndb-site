@@ -104,7 +104,7 @@
     "url": "https://vndb.org/v20431",
     "title": "Sakura no Toki -Sakura no Mori no Shita o Ayumu-",
     "released": "2023-02-24",
-    "image": "https://t.vndb.org/cv/71/78671.jpg",
+    "image": "https://t.vndb.org/cv/66/79666.jpg",
     "rating": 8.64,
     "vote": 10,
     "finished": 1706524984
@@ -135,7 +135,7 @@
     "title": "Kin'iro Loveriche -Golden Time-",
     "released": "2019-02-22",
     "image": "https://t.vndb.org/cv/10/79710.jpg",
-    "rating": 8.11,
+    "rating": 8.1,
     "vote": 10,
     "finished": 1700806882
   },
@@ -144,7 +144,7 @@
     "url": "https://vndb.org/v29443",
     "title": "Tsui no Stella",
     "released": "2022-09-30",
-    "image": "https://t.vndb.org/cv/99/79699.jpg",
+    "image": "https://t.vndb.org/cv/15/75915.jpg",
     "rating": 8.209999999999999,
     "vote": 10,
     "finished": 1701671021
@@ -255,7 +255,7 @@
     "title": "Hamidashi Creative",
     "released": "2020-09-25",
     "image": "https://t.vndb.org/cv/27/81627.jpg",
-    "rating": 7.790000000000001,
+    "rating": 7.779999999999999,
     "vote": 9,
     "finished": 1700806693
   },
@@ -310,12 +310,22 @@
     "finished": 1701945772
   },
   {
+    "id": "v9196",
+    "url": "https://vndb.org/v9196",
+    "title": "Owaru Sekai to Birthday",
+    "released": "2012-07-27",
+    "image": "https://t.vndb.org/cv/92/96092.jpg",
+    "rating": 7.57,
+    "vote": 8,
+    "finished": 1750849423
+  },
+  {
     "id": "v10557",
     "url": "https://vndb.org/v10557",
     "title": "Himawari no Kyoukai to Nagai Natsuyasumi",
     "released": "2013-03-29",
     "image": "https://t.vndb.org/cv/40/90640.jpg",
-    "rating": 7.840000000000001,
+    "rating": 7.85,
     "vote": 8,
     "finished": 1704976732
   },
@@ -335,7 +345,7 @@
     "title": "Rance 01 - Hikari o Motomete -",
     "released": "2013-09-27",
     "image": "https://t.vndb.org/cv/16/95816.jpg",
-    "rating": 7.090000000000001,
+    "rating": 7.1,
     "vote": 8,
     "finished": 1725799157
   },
@@ -345,7 +355,7 @@
     "title": "Sanoba Witch",
     "released": "2015-02-27",
     "image": "https://t.vndb.org/cv/83/81083.jpg",
-    "rating": 7.840000000000001,
+    "rating": 7.83,
     "vote": 8,
     "finished": 1700807145
   },
@@ -355,7 +365,7 @@
     "title": "Shoujo Ramune",
     "released": "2015-07-31",
     "image": "https://t.vndb.org/cv/95/48495.jpg",
-    "rating": 7.68,
+    "rating": 7.67,
     "vote": 8,
     "finished": 1748925830
   },
@@ -375,7 +385,7 @@
     "title": "Nora to Oujo to Noraneko Heart",
     "released": "2016-02-26",
     "image": "https://t.vndb.org/cv/43/79643.jpg",
-    "rating": 7.58,
+    "rating": 7.590000000000001,
     "vote": 8,
     "finished": 1700807625
   },
@@ -384,7 +394,7 @@
     "url": "https://vndb.org/v18334",
     "title": "New Dangan Ronpa V3 Minna no Koroshiai Shingakki",
     "released": "2017-01-12",
-    "image": "https://t.vndb.org/cv/17/75817.jpg",
+    "image": "https://t.vndb.org/cv/18/75818.jpg",
     "rating": 7.720000000000001,
     "vote": 8,
     "finished": 1736323241
@@ -425,7 +435,7 @@
     "title": "Sakura, Moyu. -as the Night's, Reincarnation-",
     "released": "2019-01-31",
     "image": "https://t.vndb.org/cv/71/79671.jpg",
-    "rating": 8.559999999999999,
+    "rating": 8.55,
     "vote": 8,
     "finished": 1736415012
   },
@@ -455,7 +465,7 @@
     "title": "Ecchi de Ichizu na Doinaka Nii-sama to, Koshikiyukashii Byoujaku Imouto",
     "released": "2025-04-01",
     "image": "https://t.vndb.org/cv/41/99341.jpg",
-    "rating": 7.540000000000001,
+    "rating": 7.51,
     "vote": 8,
     "finished": 1744866994
   },
@@ -465,7 +475,7 @@
     "title": "Tensei Maou-sama wa Yuusha ni Katenai!",
     "released": "2024-11-29",
     "image": "https://t.vndb.org/cv/92/94192.jpg",
-    "rating": 7.340000000000001,
+    "rating": 7.390000000000001,
     "vote": 8,
     "finished": 1736323176
   },
@@ -485,7 +495,7 @@
     "title": "3days ~Michiteyuku Toki no Kanata de~",
     "released": "2004-06-25",
     "image": "https://t.vndb.org/cv/98/95698.jpg",
-    "rating": 7.01,
+    "rating": 7,
     "vote": 7,
     "finished": 1707311522
   },
@@ -545,7 +555,7 @@
     "title": "Koi x Shin Ai Kanojo",
     "released": "2015-10-30",
     "image": "https://t.vndb.org/cv/80/81680.jpg",
-    "rating": 7.51,
+    "rating": 7.5200000000000005,
     "vote": 7,
     "finished": 1727103479
   },
@@ -565,7 +575,7 @@
     "title": "Suisou Ginka no Istoria",
     "released": "2017-03-24",
     "image": "https://t.vndb.org/cv/06/39306.jpg",
-    "rating": 7.7,
+    "rating": 7.709999999999999,
     "vote": 7,
     "finished": 1700806661
   },
@@ -594,7 +604,7 @@
     "url": "https://vndb.org/v23740",
     "title": "9-nine- Haruiro Harukoi Harunokaze",
     "released": "2019-04-26",
-    "image": "https://t.vndb.org/cv/77/76877.jpg",
+    "image": "https://t.vndb.org/cv/31/95131.jpg",
     "rating": 7.859999999999999,
     "vote": 7,
     "finished": 1700807052
@@ -635,7 +645,7 @@
     "title": "Yamizome Liberator -Yamiochi Yuusha to Ochiru Senki-",
     "released": "2020-11-27",
     "image": "https://t.vndb.org/cv/25/100325.jpg",
-    "rating": 7.220000000000001,
+    "rating": 7.209999999999999,
     "vote": 7,
     "finished": 1746423189
   },
@@ -648,6 +658,16 @@
     "rating": 7.42,
     "vote": 7,
     "finished": 1700807104
+  },
+  {
+    "id": "v32946",
+    "url": "https://vndb.org/v32946",
+    "title": "Neko Para After: La Vraie Famille",
+    "released": "2025-06-13",
+    "image": "https://t.vndb.org/cv/53/110453.jpg",
+    "rating": 7.2700000000000005,
+    "vote": 7,
+    "finished": 1750907095
   },
   {
     "id": "v37651",
@@ -675,7 +695,7 @@
     "title": "GINKA",
     "released": "2023-10-26",
     "image": "https://t.vndb.org/cv/15/91415.jpg",
-    "rating": 7.26,
+    "rating": 7.2700000000000005,
     "vote": 7,
     "finished": 1700896823
   },
@@ -695,7 +715,7 @@
     "title": "Kamisama choose! Sensei Onna no Ko Niatteru Yo!",
     "released": "2025-05-30",
     "image": "https://t.vndb.org/cv/40/109840.jpg",
-    "rating": 6.909999999999999,
+    "rating": 6.94,
     "vote": 7,
     "finished": 1749084355
   },
@@ -705,7 +725,7 @@
     "title": "Natsu no Kusari",
     "released": "2016-03-25",
     "image": "https://t.vndb.org/cv/59/27459.jpg",
-    "rating": 7.109999999999999,
+    "rating": 7.15,
     "vote": 6,
     "finished": 1749118830
   },
@@ -735,7 +755,7 @@
     "title": "Mahou Shoujo Shoumou Sensen - DeadΩAegis",
     "released": "2021-03-26",
     "image": "https://t.vndb.org/cv/80/77980.jpg",
-    "rating": 7.33,
+    "rating": 7.32,
     "vote": 6,
     "finished": 1703165151
   },
@@ -755,7 +775,7 @@
     "title": "Mainichi Kiss Shite Lolita",
     "released": "2022-05-20",
     "image": "https://t.vndb.org/cv/34/84534.jpg",
-    "rating": 7.06,
+    "rating": 7.07,
     "vote": 6,
     "finished": 1744867054
   },
@@ -765,7 +785,7 @@
     "title": "Tenshi☆Souzou RE-BOOT!",
     "released": "2023-04-28",
     "image": "https://t.vndb.org/cv/66/88666.jpg",
-    "rating": 7.45,
+    "rating": 7.44,
     "vote": 6,
     "finished": 1700807184
   },
@@ -775,7 +795,7 @@
     "title": "Yatte mo Derarenai Heya ni Tojikomerareta no de Hikitsuzuki Motto Yaru Hanashi",
     "released": "2025-01-31",
     "image": "https://t.vndb.org/cv/40/99340.jpg",
-    "rating": 6.43,
+    "rating": 6.409999999999999,
     "vote": 6,
     "finished": 1741785193
   },
@@ -785,7 +805,7 @@
     "title": "TV no Kieta Hi",
     "released": "2007-08-31",
     "image": "https://t.vndb.org/cv/23/25923.jpg",
-    "rating": 5.61,
+    "rating": 5.64,
     "vote": 5,
     "finished": 1706525055
   },
@@ -835,7 +855,7 @@
     "title": "Café Stella to Shinigami no Chou",
     "released": "2019-12-20",
     "image": "https://t.vndb.org/cv/08/79908.jpg",
-    "rating": 7.540000000000001,
+    "rating": 7.529999999999999,
     "vote": 5,
     "finished": 1700807176
   },
@@ -845,7 +865,7 @@
     "title": "Gaman ga Dekinai Doutei Aniki to, Sunao ni Narenai Hankou Imouto",
     "released": "2022-07-24",
     "image": "https://t.vndb.org/cv/58/51458.jpg",
-    "rating": 7.340000000000001,
+    "rating": 7.35,
     "vote": 5,
     "finished": 1700807868
   }
