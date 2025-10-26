@@ -25,7 +25,7 @@
     "title": "Sakura no Uta -Sakura no Mori no Ue o Mau-",
     "released": "2015-10-23",
     "image": "https://t.vndb.org/cv/63/79663.jpg",
-    "rating": 8.73,
+    "rating": 8.74,
     "vote": 10,
     "finished": 1700807406
   },
@@ -75,7 +75,7 @@
     "title": "Super Dangan Ronpa 2 Sayonara Zetsubou Gakuen",
     "released": "2012-07-26",
     "image": "https://t.vndb.org/cv/10/75810.jpg",
-    "rating": 8.11,
+    "rating": 8.1,
     "vote": 10,
     "finished": 1700807307
   },
@@ -104,8 +104,8 @@
     "url": "https://vndb.org/v20431",
     "title": "Sakura no Toki -Sakura no Mori no Shita o Ayumu-",
     "released": "2023-02-24",
-    "image": "https://t.vndb.org/cv/66/79666.jpg",
-    "rating": 8.629999999999999,
+    "image": "https://t.vndb.org/cv/71/78671.jpg",
+    "rating": 8.64,
     "vote": 10,
     "finished": 1706524984
   },
@@ -134,7 +134,7 @@
     "url": "https://vndb.org/v24717",
     "title": "Kin'iro Loveriche -Golden Time-",
     "released": "2019-02-22",
-    "image": "https://t.vndb.org/cv/10/79710.jpg",
+    "image": "https://t.vndb.org/cv/43/93843.jpg",
     "rating": 8.09,
     "vote": 10,
     "finished": 1700806882
@@ -184,7 +184,7 @@
     "url": "https://vndb.org/v751",
     "title": "Rewrite",
     "released": "2011-06-24",
-    "image": "https://t.vndb.org/cv/28/90328.jpg",
+    "image": "https://t.vndb.org/cv/05/75905.jpg",
     "rating": 8.53,
     "vote": 9,
     "finished": 1725799212
@@ -305,9 +305,19 @@
     "title": "AMBITIOUS MISSION After Episode 2 Yae & Nijimu & Charl",
     "released": "2023-06-30",
     "image": "https://t.vndb.org/cv/23/70323.jpg",
-    "rating": 7.279999999999999,
+    "rating": 7.2700000000000005,
     "vote": 9,
     "finished": 1727103666
+  },
+  {
+    "id": "v50283",
+    "url": "https://vndb.org/v50283",
+    "title": "Mahou Shoujo no Majo Saiban",
+    "released": "2025-07-18",
+    "image": "https://t.vndb.org/cv/34/100334.jpg",
+    "rating": 8.440000000000001,
+    "vote": 9,
+    "finished": 1760953094
   },
   {
     "id": "v382",
@@ -345,7 +355,7 @@
     "title": "Himawari no Kyoukai to Nagai Natsuyasumi",
     "released": "2013-03-29",
     "image": "https://t.vndb.org/cv/40/90640.jpg",
-    "rating": 7.840000000000001,
+    "rating": 7.85,
     "vote": 8,
     "finished": 1704976732
   },
@@ -385,7 +395,7 @@
     "title": "Shoujo Ramune",
     "released": "2015-07-31",
     "image": "https://t.vndb.org/cv/95/48495.jpg",
-    "rating": 7.68,
+    "rating": 7.69,
     "vote": 8,
     "finished": 1748925830
   },
@@ -395,7 +405,7 @@
     "title": "Akai Hitomi ni Utsuru Sekai",
     "released": "2015-07-24",
     "image": "https://t.vndb.org/cv/65/103065.jpg",
-    "rating": 7.85,
+    "rating": 7.83,
     "vote": 8,
     "finished": 1755953867
   },
@@ -465,7 +475,7 @@
     "title": "9-nine- Sorairo Sorauta Soranooto",
     "released": "2018-04-27",
     "image": "https://t.vndb.org/cv/38/76838.jpg",
-    "rating": 7.88,
+    "rating": 7.87,
     "vote": 8,
     "finished": 1700807039
   },
@@ -484,8 +494,8 @@
     "url": "https://vndb.org/v22345",
     "title": "Onii-chan, Asa made Zutto Gyutte Shite!",
     "released": "2018-05-25",
-    "image": "https://t.vndb.org/cv/88/92488.jpg",
-    "rating": 7.459999999999999,
+    "image": "https://t.vndb.org/cv/17/116517.jpg",
+    "rating": 7.470000000000001,
     "vote": 8,
     "finished": 1703316944
   },
@@ -504,7 +514,7 @@
     "url": "https://vndb.org/v48724",
     "title": "Ecchi de Ichizu na Doinaka Nii-sama to, Koshikiyukashii Byoujaku Imouto",
     "released": "2025-04-01",
-    "image": "https://t.vndb.org/cv/18/106718.jpg",
+    "image": "https://t.vndb.org/cv/90/109990.jpg",
     "rating": 7.5,
     "vote": 8,
     "finished": 1744866994
@@ -525,7 +535,7 @@
     "title": "Yadorishi Otome no Chikai to Mahou",
     "released": "2025-07-25",
     "image": "https://t.vndb.org/cv/35/113635.jpg",
-    "rating": 6.7700000000000005,
+    "rating": 6.779999999999999,
     "vote": 8,
     "finished": 1753950546
   },
@@ -555,7 +565,7 @@
     "title": "Mashiro-iro Symphony",
     "released": "2009-10-30",
     "image": "https://t.vndb.org/cv/40/95140.jpg",
-    "rating": 7.7,
+    "rating": 7.69,
     "vote": 7,
     "finished": 1700806997
   },
@@ -575,7 +585,7 @@
     "title": "Kud Wafter",
     "released": "2010-06-25",
     "image": "https://t.vndb.org/cv/18/92618.jpg",
-    "rating": 6.970000000000001,
+    "rating": 6.9799999999999995,
     "vote": 7,
     "finished": 1755688489
   },
@@ -585,7 +595,7 @@
     "title": "Irotoridori no Sekai",
     "released": "2011-07-29",
     "image": "https://t.vndb.org/cv/77/88277.jpg",
-    "rating": 8.11,
+    "rating": 8.1,
     "vote": 7,
     "finished": 1745676624
   },
@@ -645,7 +655,7 @@
     "title": "RIDDLE JOKER",
     "released": "2018-03-30",
     "image": "https://t.vndb.org/cv/73/79873.jpg",
-    "rating": 7.57,
+    "rating": 7.56,
     "vote": 7,
     "finished": 1700807168
   },
@@ -665,7 +675,7 @@
     "title": "Kimagure Temptation",
     "released": "2019-09-27",
     "image": "https://t.vndb.org/cv/94/76994.jpg",
-    "rating": 7.470000000000001,
+    "rating": 7.459999999999999,
     "vote": 7,
     "finished": 1700808176
   },
@@ -675,7 +685,7 @@
     "title": "Sakura no Kumo * Scarlet no Koi",
     "released": "2020-09-25",
     "image": "https://t.vndb.org/cv/78/90878.jpg",
-    "rating": 8.11,
+    "rating": 8.1,
     "vote": 7,
     "finished": 1700807802
   },
@@ -715,7 +725,7 @@
     "title": "Neko Para After: La Vraie Famille",
     "released": "2025-06-13",
     "image": "https://t.vndb.org/cv/06/107406.jpg",
-    "rating": 7.2,
+    "rating": 7.19,
     "vote": 7,
     "finished": 1750907095
   },
@@ -745,7 +755,7 @@
     "title": "GINKA",
     "released": "2023-10-26",
     "image": "https://t.vndb.org/cv/15/91415.jpg",
-    "rating": 7.2299999999999995,
+    "rating": 7.24,
     "vote": 7,
     "finished": 1700896823
   },
@@ -755,7 +765,7 @@
     "title": "Select Oblige",
     "released": "2024-07-26",
     "image": "https://t.vndb.org/cv/64/96064.jpg",
-    "rating": 6.83,
+    "rating": 6.82,
     "vote": 7,
     "finished": 1725799339
   },
@@ -765,7 +775,7 @@
     "title": "Haison Shoujo [Ni] ~Kageri Sasou Hime no Hako~",
     "released": "2025-07-25",
     "image": "https://t.vndb.org/cv/30/103430.jpg",
-    "rating": 7.340000000000001,
+    "rating": 7.359999999999999,
     "vote": 7,
     "finished": 1753493119
   },
@@ -775,7 +785,7 @@
     "title": "Kamisama choose! Sensei Onna no Ko Niatteru Yo!",
     "released": "2025-05-30",
     "image": "https://t.vndb.org/cv/40/109840.jpg",
-    "rating": 6.890000000000001,
+    "rating": 6.92,
     "vote": 7,
     "finished": 1749084355
   },
@@ -785,7 +795,7 @@
     "title": "Natsu no Kusari",
     "released": "2016-03-25",
     "image": "https://t.vndb.org/cv/59/27459.jpg",
-    "rating": 7.140000000000001,
+    "rating": 7.13,
     "vote": 6,
     "finished": 1749118830
   },
@@ -925,7 +935,7 @@
     "title": "Gaman ga Dekinai Doutei Aniki to, Sunao ni Narenai Hankou Imouto",
     "released": "2022-07-24",
     "image": "https://t.vndb.org/cv/58/51458.jpg",
-    "rating": 7.359999999999999,
+    "rating": 7.37,
     "vote": 5,
     "finished": 1700807868
   }
