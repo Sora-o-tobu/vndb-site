@@ -34,7 +34,7 @@ export default function Home() {
       year: 'numeric',
       month: '2-digit',
       day: '2-digit'
-    });
+    }).replace(/\//g, '-');
   };
 
   const scrollToScore = (score: number) => {
