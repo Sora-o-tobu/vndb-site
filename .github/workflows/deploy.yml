@@ -46,6 +46,7 @@ jobs:
         run: node scripts/fetch-vndb.js
         env:
           VNDB_API_KEY: ${{ secrets.VNDB_API_KEY }}
+          USER: ${{ secrets.USER }}
 
       # 如果数据有更新，提交并推送更改
       - name: Commit and push if changed

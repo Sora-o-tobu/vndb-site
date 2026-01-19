@@ -4,29 +4,45 @@ const path = require('path');
 const axios = require('axios');
 
 const VNDB_API_URL = 'https://api.vndb.org/kana/ulist';
-const VNDB_VN_URL = 'https://api.vndb.org/kana/vn';
-const VNDB_USER = 'u257101';
+const VNDB_VN_URL = 'https://api.vndb.org/kana/vn'; // not used yet
+const VNDB_USER = process.env.USER;
 const API_KEY = process.env.VNDB_API_KEY;
 
 async function fetchUserList() {
-  const res = await axios.post(
-    VNDB_API_URL,
-    {
-      user: VNDB_USER,
-      filters: ['label', '=', 7], // filter has finished
-      sort: "vote",
-      reverse: true,
-      fields: "id, vote, voted, vn.title, vn.released, vn.image.url, vn.rating",
-      results: 100
-    },
-    {
-      headers: {
-        'Authorization': `Token ${API_KEY}`,
-        'Content-Type': 'application/json',
+  let allResults = [];
+  let page = 1;
+  let more = true;
+
+  while (more) {
+    console.log(`Fetching page ${page}...`);
+    const res = await axios.post(
+      VNDB_API_URL,
+      {
+        user: VNDB_USER,
+        filters: ['label', '=', 7], // filter has finished
+        sort: "vote",
+        reverse: true,
+        fields: "id, vote, voted, vn.title, vn.released, vn.image.url, vn.rating",
+        results: 100,
+        page: page
       },
+      {
+        headers: {
+          'Authorization': `Token ${API_KEY}`,
+          'Content-Type': 'application/json',
+        },
+      }
+    );
+
+    if (res.data.results) {
+      allResults = allResults.concat(res.data.results);
     }
-  );
-  return res.data.results;
+
+    more = res.data.more;
+    page++;
+  }
+
+  return allResults;
 }
 
 (async () => {
