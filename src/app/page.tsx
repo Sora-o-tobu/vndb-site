@@ -9,7 +9,7 @@ export default function Home() {
   const [selectedImage, setSelectedImage] = useState<string | null>(null);
   const [loading, setLoading] = useState(true);
   const basePath = process.env.NEXT_PUBLIC_BASE_PATH || '';
-  
+
   useEffect(() => {
     fetch(`${basePath}/my_galgame.json`)
       .then(res => res.json())
@@ -56,7 +56,7 @@ export default function Home() {
     <main className="min-h-screen bg-cover bg-center bg-fixed" style={{ backgroundImage: `url(${basePath}/background.webp)` }}>
       <div className="container mx-auto px-4 py-8">
         <h1 className="text-4xl font-bold mb-8 text-center text-black drop-shadow-lg">我的 Galgame</h1>
-        
+
         {/* 导航按钮 */}
         <div className="flex justify-center gap-4 mb-8 flex-wrap">
           {Object.keys(groupedGames)
@@ -71,7 +71,7 @@ export default function Home() {
               </button>
             ))}
         </div>
-        
+
         {Object.entries(groupedGames)
           .sort(([a], [b]) => Number(b) - Number(a))
           .map(([score, games]) => (
@@ -83,34 +83,34 @@ export default function Home() {
                 {games
                   .sort((a, b) => b.finished - a.finished) // 按完成日期降序排序
                   .map((game) => (
-                  <div key={game.id} className="bg-white/90 backdrop-blur-sm rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300">
-                    <div 
-                      className="relative h-48 cursor-pointer"
-                      onClick={() => setSelectedImage(game.image)}
-                    >
-                      <Image
-                        src={game.image}
-                        alt={game.title}
-                        fill
-                        className="object-cover"
-                        unoptimized
-                      />
-                    </div>
-                    <div className="p-4">
-                      <h2 className="text-xl font-semibold mb-2 text-black">
-                        <a href={game.url} target="_blank" rel="noopener noreferrer" className="hover:text-blue-600 transition-colors">
-                          {game.title}
-                        </a>
-                      </h2>
-                      <div className="text-gray-700">
-                        <p>发售日期: {game.released}</p>
-                        <p>完成日期: {formatDate(game.finished)}</p>
-                        <p>个人评分: {game.vote.toFixed(1)}</p>
-                        <p>VNDB评分: {game.rating.toFixed(1)}</p>
+                    <div key={game.id} className="bg-white/90 backdrop-blur-sm rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300">
+                      <div
+                        className="relative h-64 cursor-pointer"
+                        onClick={() => setSelectedImage(game.image)}
+                      >
+                        <Image
+                          src={game.image}
+                          alt={game.title}
+                          fill
+                          className="object-cover"
+                          unoptimized
+                        />
+                      </div>
+                      <div className="p-4">
+                        <h2 className="text-xl font-semibold mb-2 text-black">
+                          <a href={game.url} target="_blank" rel="noopener noreferrer" className="hover:text-blue-600 transition-colors">
+                            {game.title}
+                          </a>
+                        </h2>
+                        <div className="text-gray-700">
+                          <p>发售日期: {game.released}</p>
+                          <p>完成日期: {formatDate(game.finished)}</p>
+                          <p>个人评分: {game.vote.toFixed(1)}</p>
+                          <p>VNDB评分: {game.rating.toFixed(1)}</p>
+                        </div>
                       </div>
                     </div>
-                  </div>
-                ))}
+                  ))}
               </div>
             </div>
           ))}
@@ -118,7 +118,7 @@ export default function Home() {
 
       {/* 图片缩放模态框 */}
       {selectedImage && (
-        <div 
+        <div
           className="fixed inset-0 bg-black/80 flex items-center justify-center z-50 cursor-pointer"
           onClick={() => setSelectedImage(null)}
         >
