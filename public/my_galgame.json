@@ -35,7 +35,7 @@
     "title": "Sono Hanabira ni Kuchizuke o: Anata to Koibito Tsunagi",
     "released": "2007-07-14",
     "image": "https://t.vndb.org/cv/78/1178.jpg",
-    "rating": 7.1,
+    "rating": 7.090000000000001,
     "vote": 10,
     "finished": 1700808099
   },
@@ -45,7 +45,7 @@
     "title": "Sono Hanabira ni Kuchizuke o: Anata o Suki na Shiawase",
     "released": "2008-07-25",
     "image": "https://t.vndb.org/cv/39/104639.jpg",
-    "rating": 7.17,
+    "rating": 7.159999999999999,
     "vote": 10,
     "finished": 1700808119
   },
@@ -55,7 +55,7 @@
     "title": "Subarashiki Hibi ~Furenzoku Sonzai~",
     "released": "2010-03-26",
     "image": "https://t.vndb.org/cv/17/90017.jpg",
-    "rating": 8.68,
+    "rating": 8.690000000000001,
     "vote": 10,
     "finished": 1702733773
   },
@@ -125,7 +125,7 @@
     "title": "Shukusei no Girlfriend -the destiny star of girlfriend-",
     "released": "2018-07-27",
     "image": "https://t.vndb.org/cv/53/95453.jpg",
-    "rating": 7.290000000000001,
+    "rating": 7.279999999999999,
     "vote": 10,
     "finished": 1741059787
   },
@@ -135,7 +135,7 @@
     "title": "Kin'iro Loveriche -Golden Time-",
     "released": "2019-02-22",
     "image": "https://t.vndb.org/cv/10/79710.jpg",
-    "rating": 8.09,
+    "rating": 8.08,
     "vote": 10,
     "finished": 1700806882
   },
@@ -175,9 +175,19 @@
     "title": "Saya no Uta",
     "released": "2003-12-26",
     "image": "https://t.vndb.org/cv/68/93368.jpg",
-    "rating": 7.909999999999999,
+    "rating": 7.9,
     "vote": 9,
     "finished": 1700807932
+  },
+  {
+    "id": "v211",
+    "url": "https://vndb.org/v211",
+    "title": "G-senjou no Maou",
+    "released": "2008-05-29",
+    "image": "https://t.vndb.org/cv/67/88067.jpg",
+    "rating": 8.23,
+    "vote": 9,
+    "finished": 1772610473
   },
   {
     "id": "v751",
@@ -195,7 +205,7 @@
     "title": "Soukou Akki Muramasa",
     "released": "2009-10-30",
     "image": "https://t.vndb.org/cv/25/77925.jpg",
-    "rating": 8.99,
+    "rating": 8.98,
     "vote": 9,
     "finished": 1725799258
   },
@@ -215,7 +225,7 @@
     "title": "Owaru Sekai to Birthday",
     "released": "2012-07-27",
     "image": "https://t.vndb.org/cv/92/96092.jpg",
-    "rating": 7.590000000000001,
+    "rating": 7.6,
     "vote": 9,
     "finished": 1750849423
   },
@@ -235,7 +245,7 @@
     "title": "Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka?",
     "released": "2018-07-27",
     "image": "https://t.vndb.org/cv/82/78282.jpg",
-    "rating": 7.83,
+    "rating": 7.82,
     "vote": 9,
     "finished": 1707203101
   },
@@ -245,7 +255,7 @@
     "title": "9-nine- Yukiiro Yukihana Yukinoato",
     "released": "2020-04-24",
     "image": "https://t.vndb.org/cv/42/76942.jpg",
-    "rating": 8.559999999999999,
+    "rating": 8.55,
     "vote": 9,
     "finished": 1700807059
   },
@@ -275,7 +285,7 @@
     "title": "Holy Undead ~Himote de Bocchi no Shirei Jutsushi ga, Seijo ni Tensei Shite Otomodachi o Fuyashimasu~",
     "released": "2024-12-20",
     "image": "https://t.vndb.org/cv/74/93674.jpg",
-    "rating": 7.35,
+    "rating": 7.340000000000001,
     "vote": 9,
     "finished": 1736323296
   },
@@ -295,7 +305,7 @@
     "title": "Ore no Hitomi de Maruhadaka! Fukachi na Mirai to Misukasu Vision",
     "released": "2023-07-28",
     "image": "https://t.vndb.org/cv/65/113265.jpg",
-    "rating": 7.18,
+    "rating": 7.17,
     "vote": 9,
     "finished": 1739699797
   },
@@ -405,7 +415,7 @@
     "title": "Akai Hitomi ni Utsuru Sekai",
     "released": "2015-07-24",
     "image": "https://t.vndb.org/cv/65/103065.jpg",
-    "rating": 7.87,
+    "rating": 7.859999999999999,
     "vote": 8,
     "finished": 1755953867
   },
@@ -434,7 +444,7 @@
     "url": "https://vndb.org/v18334",
     "title": "New Dangan Ronpa V3 Minna no Koroshiai Shingakki",
     "released": "2017-01-12",
-    "image": "https://t.vndb.org/cv/18/75818.jpg",
+    "image": "https://t.vndb.org/cv/17/75817.jpg",
     "rating": 7.69,
     "vote": 8,
     "finished": 1736323241
@@ -465,7 +475,7 @@
     "title": "Re: LieF ~Shin'ainaru Anata e~",
     "released": "2016-10-28",
     "image": "https://t.vndb.org/cv/75/79875.jpg",
-    "rating": 7.5,
+    "rating": 7.51,
     "vote": 8,
     "finished": 1772201593
   },
@@ -495,7 +505,7 @@
     "title": "Sakura, Moyu. -as the Night's, Reincarnation-",
     "released": "2019-01-31",
     "image": "https://t.vndb.org/cv/71/79671.jpg",
-    "rating": 8.49,
+    "rating": 8.5,
     "vote": 8,
     "finished": 1736415012
   },
@@ -515,7 +525,7 @@
     "title": "ATRI -My Dear Moments-",
     "released": "2020-06-18",
     "image": "https://t.vndb.org/cv/12/76012.jpg",
-    "rating": 7.790000000000001,
+    "rating": 7.779999999999999,
     "vote": 8,
     "finished": 1700806365
   },
@@ -525,7 +535,7 @@
     "title": "Ecchi de Ichizu na Doinaka Nii-sama to, Koshikiyukashii Byoujaku Imouto",
     "released": "2025-04-01",
     "image": "https://t.vndb.org/cv/90/109990.jpg",
-    "rating": 7.4799999999999995,
+    "rating": 7.49,
     "vote": 8,
     "finished": 1744866994
   },
@@ -564,7 +574,7 @@
     "url": "https://vndb.org/v1085",
     "title": "3days ~Michiteyuku Toki no Kanata de~",
     "released": "2004-06-25",
-    "image": "https://t.vndb.org/cv/29/95729.jpg",
+    "image": "https://t.vndb.org/cv/98/95698.jpg",
     "rating": 6.9799999999999995,
     "vote": 7,
     "finished": 1707311522
@@ -635,7 +645,7 @@
     "title": "Koi x Shin Ai Kanojo",
     "released": "2015-10-30",
     "image": "https://t.vndb.org/cv/80/81680.jpg",
-    "rating": 7.5200000000000005,
+    "rating": 7.529999999999999,
     "vote": 7,
     "finished": 1727103479
   },
@@ -685,7 +695,7 @@
     "title": "Kimagure Temptation",
     "released": "2019-09-27",
     "image": "https://t.vndb.org/cv/94/76994.jpg",
-    "rating": 7.459999999999999,
+    "rating": 7.45,
     "vote": 7,
     "finished": 1700808176
   },
@@ -725,7 +735,7 @@
     "title": "9-nine- Shinshou",
     "released": "2021-04-23",
     "image": "https://t.vndb.org/cv/59/77159.jpg",
-    "rating": 7.359999999999999,
+    "rating": 7.35,
     "vote": 7,
     "finished": 1700807104
   },
@@ -785,7 +795,7 @@
     "title": "Haison Shoujo [Ni] ~Kageri Sasou Hime no Hako~",
     "released": "2025-07-25",
     "image": "https://t.vndb.org/cv/30/103430.jpg",
-    "rating": 7.49,
+    "rating": 7.5,
     "vote": 7,
     "finished": 1753493119
   },
@@ -805,7 +815,7 @@
     "title": "Katanegai",
     "released": "2025-12-31",
     "image": "https://t.vndb.org/cv/27/107927.jpg",
-    "rating": 5.89,
+    "rating": 5.85,
     "vote": 7,
     "finished": 1768571639
   },
@@ -825,7 +835,7 @@
     "title": "Karenai Sekai to Owaru Hana",
     "released": "2016-11-25",
     "image": "https://t.vndb.org/cv/82/97082.jpg",
-    "rating": 7.63,
+    "rating": 7.62,
     "vote": 6,
     "finished": 1704457657
   },
@@ -845,7 +855,7 @@
     "title": "Mahou Shoujo Shoumou Sensen - DeadΩAegis",
     "released": "2021-03-26",
     "image": "https://t.vndb.org/cv/80/77980.jpg",
-    "rating": 7.31,
+    "rating": 7.3,
     "vote": 6,
     "finished": 1703165151
   },
@@ -855,7 +865,7 @@
     "title": "Fuyukara, Kururu.",
     "released": "2021-09-24",
     "image": "https://t.vndb.org/cv/46/89046.jpg",
-    "rating": 7.49,
+    "rating": 7.4799999999999995,
     "vote": 6,
     "finished": 1700806325
   },
@@ -865,7 +875,7 @@
     "title": "Mainichi Kiss Shite Lolita",
     "released": "2022-05-20",
     "image": "https://t.vndb.org/cv/21/94921.jpg",
-    "rating": 7.109999999999999,
+    "rating": 7.13,
     "vote": 6,
     "finished": 1744867054
   },
@@ -905,7 +915,7 @@
     "title": "Imouto Choukyou Nikki ~Konna Tsundere ga Ore no Imouto na Wakenai!~",
     "released": "2011-09-03",
     "image": "https://t.vndb.org/cv/61/42061.jpg",
-    "rating": 5.42,
+    "rating": 5.43,
     "vote": 5,
     "finished": 1706525019
   },
@@ -935,7 +945,7 @@
     "title": "Deatte 5-fun wa Ore no Mono! Jikan Teishi to Atropos",
     "released": "2018-10-26",
     "image": "https://t.vndb.org/cv/93/89193.jpg",
-    "rating": 7.409999999999999,
+    "rating": 7.42,
     "vote": 5,
     "finished": 1701486155
   },
