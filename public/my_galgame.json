@@ -105,7 +105,7 @@
     "title": "Sakura no Toki -Sakura no Mori no Shita o Ayumu-",
     "released": "2023-02-24",
     "image": "https://t.vndb.org/cv/66/79666.jpg",
-    "rating": 8.709999999999999,
+    "rating": 8.7,
     "vote": 10,
     "finished": 1706524984
   },
@@ -205,7 +205,7 @@
     "title": "Rewrite",
     "released": "2011-06-24",
     "image": "https://t.vndb.org/cv/05/75905.jpg",
-    "rating": 8.52,
+    "rating": 8.53,
     "vote": 9,
     "finished": 1725799212
   },
@@ -244,7 +244,7 @@
     "url": "https://vndb.org/v18149",
     "title": "Otome * Domain",
     "released": "2016-06-24",
-    "image": "https://t.vndb.org/cv/29/78229.jpg",
+    "image": "https://t.vndb.org/cv/54/79754.jpg",
     "rating": 7.44,
     "vote": 9,
     "finished": 1700806392
@@ -295,7 +295,7 @@
     "title": "Holy Undead ~Himote de Bocchi no Shirei Jutsushi ga, Seijo ni Tensei Shite Otomodachi o Fuyashimasu~",
     "released": "2024-12-20",
     "image": "https://t.vndb.org/cv/74/93674.jpg",
-    "rating": 7.18,
+    "rating": 7.19,
     "vote": 9,
     "finished": 1736323296
   },
@@ -305,7 +305,7 @@
     "title": "AMBITIOUS MISSION After Episode 1 Kaguya & Atena",
     "released": "2023-05-26",
     "image": "https://t.vndb.org/cv/52/68852.jpg",
-    "rating": 7.42,
+    "rating": 7.409999999999999,
     "vote": 9,
     "finished": 1727103650
   },
@@ -325,7 +325,7 @@
     "title": "AMBITIOUS MISSION After Episode 2 Yae & Nijimu & Charl",
     "released": "2023-06-30",
     "image": "https://t.vndb.org/cv/23/70323.jpg",
-    "rating": 7.24,
+    "rating": 7.220000000000001,
     "vote": 9,
     "finished": 1727103666
   },
@@ -335,7 +335,7 @@
     "title": "Mahou Shoujo no Majo Saiban",
     "released": "2025-07-18",
     "image": "https://t.vndb.org/cv/34/100334.jpg",
-    "rating": 8.440000000000001,
+    "rating": 8.45,
     "vote": 9,
     "finished": 1760953094
   },
@@ -365,7 +365,7 @@
     "title": "Irotoridori no Hikari",
     "released": "2012-08-31",
     "image": "https://t.vndb.org/cv/82/88282.jpg",
-    "rating": 8.440000000000001,
+    "rating": 8.43,
     "vote": 8,
     "finished": 1755930262
   },
@@ -425,7 +425,7 @@
     "title": "Akai Hitomi ni Utsuru Sekai",
     "released": "2015-07-24",
     "image": "https://t.vndb.org/cv/65/103065.jpg",
-    "rating": 7.859999999999999,
+    "rating": 7.85,
     "vote": 8,
     "finished": 1755953867
   },
@@ -435,7 +435,7 @@
     "title": "Rance 03 - Leazas Kanraku",
     "released": "2015-08-28",
     "image": "https://t.vndb.org/cv/15/95815.jpg",
-    "rating": 8.39,
+    "rating": 8.379999999999999,
     "vote": 8,
     "finished": 1725799192
   },
@@ -445,7 +445,7 @@
     "title": "Nora to Oujo to Noraneko Heart",
     "released": "2016-02-26",
     "image": "https://t.vndb.org/cv/43/79643.jpg",
-    "rating": 7.57,
+    "rating": 7.58,
     "vote": 8,
     "finished": 1700807625
   },
@@ -454,7 +454,7 @@
     "url": "https://vndb.org/v18334",
     "title": "New Dangan Ronpa V3 Minna no Koroshiai Shingakki",
     "released": "2017-01-12",
-    "image": "https://t.vndb.org/cv/18/75818.jpg",
+    "image": "https://t.vndb.org/cv/17/75817.jpg",
     "rating": 7.69,
     "vote": 8,
     "finished": 1736323241
@@ -495,7 +495,7 @@
     "title": "Suisou Ginka no Istoria",
     "released": "2017-03-24",
     "image": "https://t.vndb.org/cv/98/116698.jpg",
-    "rating": 7.76,
+    "rating": 7.7700000000000005,
     "vote": 8,
     "finished": 1700806661
   },
@@ -515,7 +515,7 @@
     "title": "Sakura, Moyu. -as the Night's, Reincarnation-",
     "released": "2019-01-31",
     "image": "https://t.vndb.org/cv/71/79671.jpg",
-    "rating": 8.51,
+    "rating": 8.52,
     "vote": 8,
     "finished": 1736415012
   },
@@ -555,7 +555,7 @@
     "title": "Tensei Maou-sama wa Yuusha ni Katenai!",
     "released": "2024-11-29",
     "image": "https://t.vndb.org/cv/92/94192.jpg",
-    "rating": 7.2299999999999995,
+    "rating": 7.19,
     "vote": 8,
     "finished": 1736323176
   },
@@ -570,12 +570,22 @@
     "finished": 1753950546
   },
   {
+    "id": "v60663",
+    "url": "https://vndb.org/v60663",
+    "title": "Dimension Totsu Lovers!!",
+    "released": "2026-04-24",
+    "image": "https://t.vndb.org/cv/90/126490.jpg",
+    "rating": 8.41,
+    "vote": 8,
+    "finished": 1780038544
+  },
+  {
     "id": "v1060",
     "url": "https://vndb.org/v1060",
     "title": "MinDeaD BlooD ~Shihaisha no Tame no Kyoushikyoku~",
     "released": "2004-06-11",
     "image": "https://t.vndb.org/cv/44/103644.jpg",
-    "rating": 7.62,
+    "rating": 7.63,
     "vote": 7,
     "finished": 1727103613
   },
@@ -585,7 +595,7 @@
     "title": "3days ~Michiteyuku Toki no Kanata de~",
     "released": "2004-06-25",
     "image": "https://t.vndb.org/cv/98/95698.jpg",
-    "rating": 6.970000000000001,
+    "rating": 6.9799999999999995,
     "vote": 7,
     "finished": 1707311522
   },
@@ -715,7 +725,7 @@
     "title": "9-nine- Haruiro Harukoi Harunokaze",
     "released": "2019-04-26",
     "image": "https://t.vndb.org/cv/31/95131.jpg",
-    "rating": 7.81,
+    "rating": 7.8,
     "vote": 7,
     "finished": 1700807052
   },
@@ -765,7 +775,7 @@
     "title": "9-nine- Shinshou",
     "released": "2021-04-23",
     "image": "https://t.vndb.org/cv/59/77159.jpg",
-    "rating": 7.33,
+    "rating": 7.32,
     "vote": 7,
     "finished": 1700807104
   },
@@ -815,7 +825,7 @@
     "title": "Select Oblige",
     "released": "2024-07-26",
     "image": "https://t.vndb.org/cv/64/96064.jpg",
-    "rating": 6.790000000000001,
+    "rating": 6.8,
     "vote": 7,
     "finished": 1725799339
   },
@@ -835,7 +845,7 @@
     "title": "Haison Shoujo [Ni] ~Kageri Sasou Hime no Hako~",
     "released": "2025-07-25",
     "image": "https://t.vndb.org/cv/30/103430.jpg",
-    "rating": 7.49,
+    "rating": 7.459999999999999,
     "vote": 7,
     "finished": 1753493119
   },
@@ -855,7 +865,7 @@
     "title": "Katanegai",
     "released": "2025-12-31",
     "image": "https://t.vndb.org/cv/27/107927.jpg",
-    "rating": 5.9799999999999995,
+    "rating": 5.970000000000001,
     "vote": 7,
     "finished": 1768571639
   },
@@ -865,7 +875,7 @@
     "title": "Natsu no Kusari",
     "released": "2016-03-25",
     "image": "https://t.vndb.org/cv/43/128843.jpg",
-    "rating": 7.2,
+    "rating": 7.18,
     "vote": 6,
     "finished": 1749118830
   },
@@ -895,7 +905,7 @@
     "title": "Casablanca no Tsubomi",
     "released": "2017-05-26",
     "image": "https://t.vndb.org/cv/04/103304.jpg",
-    "rating": 6.36,
+    "rating": 6.37,
     "vote": 6,
     "finished": 1775653518
   },
@@ -905,7 +915,7 @@
     "title": "Mahou Shoujo Shoumou Sensen - DeadΩAegis",
     "released": "2021-03-26",
     "image": "https://t.vndb.org/cv/80/77980.jpg",
-    "rating": 7.31,
+    "rating": 7.3,
     "vote": 6,
     "finished": 1703165151
   },
@@ -975,7 +985,7 @@
     "title": "TV no Kieta Hi",
     "released": "2007-08-31",
     "image": "https://t.vndb.org/cv/23/25923.jpg",
-    "rating": 5.55,
+    "rating": 5.54,
     "vote": 5,
     "finished": 1706525055
   },
