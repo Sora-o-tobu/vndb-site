@@ -75,7 +75,7 @@
     "title": "Super Dangan Ronpa 2 Sayonara Zetsubou Gakuen",
     "released": "2012-07-26",
     "image": "https://t.vndb.org/cv/10/75810.jpg",
-    "rating": 8.1,
+    "rating": 8.09,
     "vote": 10,
     "finished": 1700807307
   },
@@ -165,7 +165,7 @@
     "title": "CLANNAD",
     "released": "2004-04-28",
     "image": "https://t.vndb.org/cv/95/75895.jpg",
-    "rating": 8.709999999999999,
+    "rating": 8.72,
     "vote": 9,
     "finished": 1779262682
   },
@@ -245,7 +245,7 @@
     "title": "Otome * Domain",
     "released": "2016-06-24",
     "image": "https://t.vndb.org/cv/54/79754.jpg",
-    "rating": 7.44,
+    "rating": 7.45,
     "vote": 9,
     "finished": 1700806392
   },
@@ -255,7 +255,7 @@
     "title": "Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka?",
     "released": "2018-07-27",
     "image": "https://t.vndb.org/cv/82/78282.jpg",
-    "rating": 7.82,
+    "rating": 7.81,
     "vote": 9,
     "finished": 1707203101
   },
@@ -295,7 +295,7 @@
     "title": "Holy Undead ~Himote de Bocchi no Shirei Jutsushi ga, Seijo ni Tensei Shite Otomodachi o Fuyashimasu~",
     "released": "2024-12-20",
     "image": "https://t.vndb.org/cv/74/93674.jpg",
-    "rating": 7.19,
+    "rating": 7.18,
     "vote": 9,
     "finished": 1736323296
   },
@@ -365,7 +365,7 @@
     "title": "Irotoridori no Hikari",
     "released": "2012-08-31",
     "image": "https://t.vndb.org/cv/82/88282.jpg",
-    "rating": 8.43,
+    "rating": 8.440000000000001,
     "vote": 8,
     "finished": 1755930262
   },
@@ -435,7 +435,7 @@
     "title": "Rance 03 - Leazas Kanraku",
     "released": "2015-08-28",
     "image": "https://t.vndb.org/cv/15/95815.jpg",
-    "rating": 8.379999999999999,
+    "rating": 8.39,
     "vote": 8,
     "finished": 1725799192
   },
@@ -445,7 +445,7 @@
     "title": "Nora to Oujo to Noraneko Heart",
     "released": "2016-02-26",
     "image": "https://t.vndb.org/cv/43/79643.jpg",
-    "rating": 7.58,
+    "rating": 7.57,
     "vote": 8,
     "finished": 1700807625
   },
@@ -475,7 +475,7 @@
     "title": "Senren * Banka",
     "released": "2016-07-29",
     "image": "https://t.vndb.org/cv/46/80746.jpg",
-    "rating": 7.659999999999999,
+    "rating": 7.65,
     "vote": 8,
     "finished": 1700807157
   },
@@ -485,7 +485,7 @@
     "title": "Re: LieF ~Shin'ainaru Anata e~",
     "released": "2016-10-28",
     "image": "https://t.vndb.org/cv/75/79875.jpg",
-    "rating": 7.49,
+    "rating": 7.4799999999999995,
     "vote": 8,
     "finished": 1772201593
   },
@@ -495,7 +495,7 @@
     "title": "Suisou Ginka no Istoria",
     "released": "2017-03-24",
     "image": "https://t.vndb.org/cv/98/116698.jpg",
-    "rating": 7.7700000000000005,
+    "rating": 7.76,
     "vote": 8,
     "finished": 1700806661
   },
@@ -555,7 +555,7 @@
     "title": "Tensei Maou-sama wa Yuusha ni Katenai!",
     "released": "2024-11-29",
     "image": "https://t.vndb.org/cv/92/94192.jpg",
-    "rating": 7.19,
+    "rating": 7.140000000000001,
     "vote": 8,
     "finished": 1736323176
   },
@@ -565,7 +565,7 @@
     "title": "Yadorishi Otome no Chikai to Mahou",
     "released": "2025-07-25",
     "image": "https://t.vndb.org/cv/35/113635.jpg",
-    "rating": 6.9799999999999995,
+    "rating": 6.87,
     "vote": 8,
     "finished": 1753950546
   },
@@ -575,7 +575,7 @@
     "title": "Dimension Totsu Lovers!!",
     "released": "2026-04-24",
     "image": "https://t.vndb.org/cv/90/126490.jpg",
-    "rating": 8.41,
+    "rating": 8.4,
     "vote": 8,
     "finished": 1780038544
   },
@@ -585,7 +585,7 @@
     "title": "MinDeaD BlooD ~Shihaisha no Tame no Kyoushikyoku~",
     "released": "2004-06-11",
     "image": "https://t.vndb.org/cv/44/103644.jpg",
-    "rating": 7.63,
+    "rating": 7.609999999999999,
     "vote": 7,
     "finished": 1727103613
   },
@@ -615,7 +615,7 @@
     "title": "Mashiro-iro Symphony",
     "released": "2009-10-30",
     "image": "https://t.vndb.org/cv/38/95138.jpg",
-    "rating": 7.68,
+    "rating": 7.67,
     "vote": 7,
     "finished": 1700806997
   },
@@ -645,9 +645,19 @@
     "title": "Irotoridori no Sekai",
     "released": "2011-07-29",
     "image": "https://t.vndb.org/cv/77/88277.jpg",
-    "rating": 8.1,
+    "rating": 8.09,
     "vote": 7,
     "finished": 1745676624
+  },
+  {
+    "id": "v11072",
+    "url": "https://vndb.org/v11072",
+    "title": "Chiisana Kanojo no Serenade",
+    "released": "2013-10-25",
+    "image": "https://t.vndb.org/cv/58/93758.jpg",
+    "rating": 7.19,
+    "vote": 7,
+    "finished": 1780748923
   },
   {
     "id": "v12849",
@@ -655,7 +665,7 @@
     "title": "Ao no Kanata no Four Rhythm",
     "released": "2014-11-28",
     "image": "https://t.vndb.org/cv/55/79855.jpg",
-    "rating": 8.27,
+    "rating": 8.26,
     "vote": 7,
     "finished": 1725799380
   },
@@ -735,7 +745,7 @@
     "title": "Kimagure Temptation",
     "released": "2019-09-27",
     "image": "https://t.vndb.org/cv/94/76994.jpg",
-    "rating": 7.45,
+    "rating": 7.44,
     "vote": 7,
     "finished": 1700808176
   },
@@ -755,7 +765,7 @@
     "title": "SaDistic BlooD",
     "released": "2019-12-20",
     "image": "https://t.vndb.org/cv/19/75719.jpg",
-    "rating": 6.11,
+    "rating": 6.12,
     "vote": 7,
     "finished": 1703918965
   },
@@ -765,7 +775,7 @@
     "title": "Yamizome Liberator -Yamiochi Yuusha to Ochiru Senki-",
     "released": "2020-11-27",
     "image": "https://t.vndb.org/cv/25/100325.jpg",
-    "rating": 7.12,
+    "rating": 7.140000000000001,
     "vote": 7,
     "finished": 1746423189
   },
@@ -775,7 +785,7 @@
     "title": "9-nine- Shinshou",
     "released": "2021-04-23",
     "image": "https://t.vndb.org/cv/59/77159.jpg",
-    "rating": 7.32,
+    "rating": 7.33,
     "vote": 7,
     "finished": 1700807104
   },
@@ -785,7 +795,7 @@
     "title": "Neko Para After: La Vraie Famille",
     "released": "2025-06-13",
     "image": "https://t.vndb.org/cv/06/107406.jpg",
-    "rating": 7.12,
+    "rating": 7.109999999999999,
     "vote": 7,
     "finished": 1750907095
   },
@@ -815,7 +825,7 @@
     "title": "GINKA",
     "released": "2023-10-26",
     "image": "https://t.vndb.org/cv/15/91415.jpg",
-    "rating": 7.2,
+    "rating": 7.19,
     "vote": 7,
     "finished": 1700896823
   },
@@ -855,7 +865,7 @@
     "title": "Kamisama choose! Sensei Onna no Ko Niatteru Yo!",
     "released": "2025-05-30",
     "image": "https://t.vndb.org/cv/40/109840.jpg",
-    "rating": 6.82,
+    "rating": 6.76,
     "vote": 7,
     "finished": 1749084355
   },
@@ -865,9 +875,19 @@
     "title": "Katanegai",
     "released": "2025-12-31",
     "image": "https://t.vndb.org/cv/27/107927.jpg",
-    "rating": 5.970000000000001,
+    "rating": 5.96,
     "vote": 7,
     "finished": 1768571639
+  },
+  {
+    "id": "v61178",
+    "url": "https://vndb.org/v61178",
+    "title": "Tasogare no Shapeshifter",
+    "released": "2026-03-27",
+    "image": "https://t.vndb.org/cv/12/122212.jpg",
+    "rating": 6.65,
+    "vote": 7,
+    "finished": 1780215299
   },
   {
     "id": "v18806",
@@ -875,7 +895,7 @@
     "title": "Natsu no Kusari",
     "released": "2016-03-25",
     "image": "https://t.vndb.org/cv/43/128843.jpg",
-    "rating": 7.18,
+    "rating": 7.19,
     "vote": 6,
     "finished": 1749118830
   },
@@ -905,7 +925,7 @@
     "title": "Casablanca no Tsubomi",
     "released": "2017-05-26",
     "image": "https://t.vndb.org/cv/04/103304.jpg",
-    "rating": 6.37,
+    "rating": 6.36,
     "vote": 6,
     "finished": 1775653518
   },
@@ -934,8 +954,8 @@
     "url": "https://vndb.org/v30461",
     "title": "Mainichi Kiss Shite Lolita",
     "released": "2022-05-20",
-    "image": "https://t.vndb.org/cv/34/84534.jpg",
-    "rating": 7.13,
+    "image": "https://t.vndb.org/cv/21/94921.jpg",
+    "rating": 7.109999999999999,
     "vote": 6,
     "finished": 1744867054
   },
@@ -975,7 +995,7 @@
     "title": "Yatte mo Derarenai Heya ni Tojikomerareta no de Hikitsuzuki Motto Yaru Hanashi",
     "released": "2025-01-31",
     "image": "https://t.vndb.org/cv/40/99340.jpg",
-    "rating": 6.17,
+    "rating": 6.12,
     "vote": 6,
     "finished": 1741785193
   },
@@ -1035,7 +1055,7 @@
     "title": "Café Stella to Shinigami no Chou",
     "released": "2019-12-20",
     "image": "https://t.vndb.org/cv/08/79908.jpg",
-    "rating": 7.5200000000000005,
+    "rating": 7.51,
     "vote": 5,
     "finished": 1700807176
   },
